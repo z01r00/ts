@@ -1,5 +1,3 @@
-Here's a professional English description of the Flask video sharing application in Markdown format:
-
 ```markdown
 # Video Sharing Platform with Flask
 
